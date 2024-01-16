@@ -1,6 +1,6 @@
 # Welcome to IntelliFactory OSS
 
-![IntelliFactory logo](https://raw.githubusercontent.com/intellifactory/.github/assets/logo.png)
+![IntelliFactory logo](https://raw.githubusercontent.com/intellifactory/.github//main/assets/logo.png)
 
 IntelliFactory crafts tools that make .NET developers immensely productive. We specialize in rapid, custom application development in F#, with a special emphasis in enterprise web applications with [WebSharper](https://websharper.com).
 
@@ -19,4 +19,4 @@ IntelliFactory crafts tools that make .NET developers immensely productive. We s
 
 ## ISO
 
- * Read our [Quality and Integrated Security Statement](https://raw.githubusercontent.com/intellifactory/.github/master/assets/QualityAndIntegratedSecurityPolicy.pdf)
+ * Read our [Quality and Integrated Security Statement](https://raw.githubusercontent.com/intellifactory/.github/main/assets/QualityAndIntegratedSecurityPolicy.pdf)
